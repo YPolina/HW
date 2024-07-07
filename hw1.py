@@ -13,3 +13,5 @@ while True:
     else:
         print(pow(number, 2))
         break
+
+#Сложность алгоритма O(1)
